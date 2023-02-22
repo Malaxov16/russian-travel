@@ -6,4 +6,5 @@
 Технологии:
 HTML, CSS, адаптивная верстка.
 
-Ссылка на GitHub Pages: 
+Ссылка на GitHub Pages:
+https://malaxov16.github.io/russian-travel/
