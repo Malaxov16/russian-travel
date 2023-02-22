@@ -1,8 +1,13 @@
-.place__descripiton {
+.place__description {
     margin: 0;
     padding: 0;
-    
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+}
+
+@media screen and (max-width: 720px) {
+    .place__description {
+        margin: 0 16px;
+    }
 }
