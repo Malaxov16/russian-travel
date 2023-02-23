@@ -6,10 +6,15 @@
     line-height: 28px;
     color: #fff;
     text-decoration: none;
+    transition: opacity 0.5s ease;
 }
 
 .header__lang-link:nth-last-of-type(1) {
     margin-right: 0;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 520px) {
